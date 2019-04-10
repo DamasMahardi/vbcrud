@@ -1,0 +1,9 @@
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\bin\Debug\vbcruduas.exe
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\bin\Debug\vbcruduas.pdb
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\bin\Debug\vbcruduas.xml
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\obj\x86\Debug\vbcruduas.Form1.resources
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\obj\x86\Debug\vbcruduas.Resources.resources
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\obj\x86\Debug\vbcruduas.vbproj.GenerateResource.Cache
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\obj\x86\Debug\vbcruduas.exe
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\obj\x86\Debug\vbcruduas.xml
+C:\Users\Mahardi\Documents\Visual Studio 2010\Projects\vbcruduas\vbcruduas\obj\x86\Debug\vbcruduas.pdb
